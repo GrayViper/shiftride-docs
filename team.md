@@ -1,2 +1,2 @@
-Account A- GrayViper - Primary owner
-Acccount B - KrishnaalterEgo - secondary
+Account A- GrayViper - Primary owner- windows
+Acccount B - KrishnaalterEgo - secondary- wsl
